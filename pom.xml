@@ -16,6 +16,8 @@
 
     <modules>
         <module>j-codes-api</module>
+        <module>j-codes-web</module>
+        <module>j-codes-juc</module>
         <module>j-codes-common</module>
     </modules>
 
